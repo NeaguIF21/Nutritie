@@ -1,0 +1,33 @@
+
+
+.contact-form{
+
+}
+
+.contact-form label,input,select{
+  width: 100%;
+
+
+}
+
+.contact-form input,select{
+  
+  border: solid 1px rgb(164,206,58) ;
+  border-radius:4px;
+}
+
+#userCalculat{
+  border-radius:4px;
+  padding: 8px 16px;
+  margin-top: 8px;
+  border: solid 1px rgb(164,206,58) ;
+  background-color: rgb(164,206,58);
+  color:white;
+  box-shadow: 0 0.5rem 1.5625rem rgb(0 0 0 / 10%);
+  transition: 1s ease-in-out;
+}
+
+#userCalculat:hover {
+  background-color: rgb(231,29,40);
+
+}
